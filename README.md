@@ -1,5 +1,5 @@
 - Hi. I'm Santeri Saarinen.
-- I'm interested in Python and Javascript.
+- I'm interested in Python, Javascript and Rust.
 - You can reach me through Github.
 
 <!---

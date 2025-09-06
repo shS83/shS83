@@ -1,5 +1,5 @@
-- Hi. I'm Santeri Saarinen.
-- I'm interested in Python, Javascript and Rust.
+- Hi. I'm Santeri Saarinen aka Prometheus Alexander.
+- I'm interested in Python, Javascript and Rust. bash scripting and nowadays fish scripting is also very fun.
 - You can reach me through Github.
 
 <!---
